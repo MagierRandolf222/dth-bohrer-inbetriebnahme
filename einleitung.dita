@@ -10,8 +10,8 @@
 <prolog>
   <author>Ochinator International</author>
   <critdates>
-    <created date="2024-03-04"/>
-    <revised modified="2024-03-04"/>
+    <created date="2026-09-06"/>
+    <revised modified="2026-09-06"/>
   </critdates>
   <metadata>
     <category>Bedienungsanleitung</category>
@@ -22,7 +22,7 @@
       <keyword>FonicSlow</keyword>
     </keywords>
   </metadata>
-  <resourceid appname="rockmore-manual" id="kapitel-1"/>
+  <resourceid appname="manual" id="kapitel-1"/>
 </prolog>
 
   <conbody>
@@ -56,9 +56,9 @@
       </fig>
     </section>
 
-    <section id="rok-t-serie">
+    <section id="rumms-t-serie">
       <title>1.1 High-Performance Imlochhämmer der RUMMS-T-Serie</title>
-      <p>Die Imlochhämmer der <xref href="#einfuehrung/rok-t-serie" type="section">RUMMS-T-Serie</xref>
+      <p>Die Imlochhämmer der <xref href="#einfuehrung/rumms-t-serie" type="section">RUMMS-T-Serie</xref>
         weisen dieselben herausragenden technischen Eigenschaften auf wie die der RUMMS-Serie, mit
         dem Unterschied, dass die Hämmer der T-Serie kein Fußventil benötigen, während die
         Standard-Kronenschäfte beibehalten wurden.</p>
