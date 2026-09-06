@@ -2,11 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
 
-  <title>ROK Serie &amp; ROK T Serie â€“ Bedienungs- und Wartungsanleitung</title>
+  <title>Bedienungs- und Wartungsanleitung</title>
 
   <topicref href="einleitung.dita" navtitle="EinfÃ¼hrung">
     <topicmeta>
-      <shortdesc>Ãœberblick Ã¼ber die ROK und ROK T Hochleistungs-ImlochhÃ¤mmer.</shortdesc>
+      <shortdesc>Überblick über die Hochleistungs-Imlochhämmer.</shortdesc>
     </topicmeta>
   </topicref>
 

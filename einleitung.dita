@@ -4,11 +4,11 @@
 
   <title>Einführung</title>
 
-  <shortdesc>Die ROK Serie und die ROK T Serie sind Hochleistungs-Imlochhämmer von Rockmore
-    International, die auf der patentierten SonicFlow Technologie basieren.</shortdesc>
+  <shortdesc>Die RUMMS-Serie und die RUMMS-T-Serie sind Hochleistungs-Imlochhämmer von Ochinator
+    International, die auf der patentierten FonicSlow Technologie basieren.</shortdesc>
 
 <prolog>
-  <author>Rockmore International</author>
+  <author>Ochinator International</author>
   <critdates>
     <created date="2024-03-04"/>
     <revised modified="2024-03-04"/>
@@ -17,9 +17,9 @@
     <category>Bedienungsanleitung</category>
     <keywords>
       <keyword>Imlochhammer</keyword>
-      <keyword>ROK Serie</keyword>
-      <keyword>ROK T Serie</keyword>
-      <keyword>SonicFlow</keyword>
+      <keyword>RUMMS-Serie</keyword>
+      <keyword>RUMMS-T-Serie</keyword>
+      <keyword>FonicSlow</keyword>
     </keywords>
   </metadata>
   <resourceid appname="rockmore-manual" id="kapitel-1"/>
@@ -28,13 +28,13 @@
   <conbody>
 
     <section id="ueberblick">
-      <title>ROK Serie und ROK T Serie Hochleistungs-ImlochhÃ¤mmer</title>
-      <p>Der optimale Energietransfer ist im Imlochhammerbohren essentiell fÃ¼r die Leistung des
-        Hammers, um genÃ¼gend komprimierte Luftenergie an die Krone zu Ã¼bertragen. Das ist der
-        Grund, warum die LuftfÃ¼hrung bei den <term>ROK</term>- und <term>ROK T</term>-ImlochhÃ¤mmern
+      <title>RUMMS-Serie und RUMMS-T-Serie Hochleistungs-Imlochhämmer</title>
+      <p>Der optimale Energietransfer ist im Imlochhammerbohren essentiell für die Leistung des
+        Hammers, um genügend komprimierte Luftenergie an die Krone zu übertragen. Das ist der
+        Grund, warum die Luftführung bei den <term>RUMMS</term>- und <term>RUMMS-T</term>-ImlochhÃ¤mmern
         erneuert und zugleich revolutioniert wurde.</p>
 
-      <p>Die patentierte <b>SonicFlow Technologie</b> minimiert die Turbulenzen und auch den
+      <p>Die patentierte <b>FonicSlow Technologie</b> minimiert die Turbulenzen und auch den
         Rückstau im Hammer. Dies resultiert in:</p>
 
       <ul>
@@ -46,30 +46,30 @@
 
       <p>Auch durch eine überdachte Entwicklung des Hammers wurden einzelne Bauteile optimiert und
         dadurch die Anzahl der Einzelteile eingespart, welche die Wartung und Servicierung des
-        Imlochhammers vereinfachen. <i>Get ready to ROK!</i></p>
+        Imlochhammers vereinfachen. <i>Get ready to RUMMS!</i></p>
 
       <fig id="fig-smiley">
-        <title>Schnittansicht eines ROK-Imlochhammers</title>
+        <title>Durchschnittliche Nutzerreaktion auf den RUMMS-Imlochhammer</title>
         <image href="Bilder/smiley.jpg" placement="break">
-          <alt>Eigentlich eine Explosionszeichnung und Schnittansicht des ROK-Imlochhammers mit Bohrkrone, stattdessen aber ein Smiley!</alt>
+          <alt>Eigentlich eine Explosionszeichnung und Schnittansicht des RUMMS-Imlochhammers mit Bohrkrone, stattdessen aber ein Smiley!</alt>
         </image>
       </fig>
     </section>
 
     <section id="rok-t-serie">
-      <title>1.1 High-Performance Imlochhämmer der ROK-T-Serie</title>
-      <p>Die Imlochhämmer der <xref href="#einfuehrung/rok-t-serie" type="section">ROK T-Serie</xref>
-        weisen dieselben herausragenden technischen Eigenschaften auf wie die der ROK-Serie, mit
+      <title>1.1 High-Performance Imlochhämmer der RUMMS-T-Serie</title>
+      <p>Die Imlochhämmer der <xref href="#einfuehrung/rok-t-serie" type="section">RUMMS-T-Serie</xref>
+        weisen dieselben herausragenden technischen Eigenschaften auf wie die der RUMMS-Serie, mit
         dem Unterschied, dass die Hämmer der T-Serie kein Fußventil benötigen, während die
         Standard-Kronenschäfte beibehalten wurden.</p>
 
       <note type="tip">
-        <p>Um Standard-Kronen in ROK-T-Hämmern zu verwenden, müssen zuvor die Fußventile
+        <p>Um Standard-Kronen in RUMMS-T-Hämmern zu verwenden, müssen zuvor die Fußventile
           <b>rückstandsfrei</b> herausgenommen werden.</p>
       </note>
 
       <note type="warning">
-  <p>Hämmer der ROK-T-Serie <b>IMMER</b> mit Kronen <b>OHNE</b> Fußventil betreiben! Aus
+  <p>Hämmer der RUMMS-T-Serie <b>IMMER</b> mit Kronen <b>OHNE</b> Fußventil betreiben! Aus
     Standard-Kronen die Fußventile rückstandsfrei entfernen! Widrigenfalls erlöschen
     sämtliche Gewährleistungsansprüche.</p>
 </note>
@@ -77,11 +77,11 @@
       <simpletable relcolwidth="1* 1* 1*" keycol="1" id="vergleichstabelle">
         <sthead>
           <stentry>Merkmal</stentry>
-          <stentry>ROK Serie</stentry>
-          <stentry>ROK T Serie</stentry>
+          <stentry>RUMMS-Serie</stentry>
+          <stentry>RUMMS-T-Serie</stentry>
         </sthead>
         <strow>
-          <stentry>FuÃŸventil</stentry>
+          <stentry>Fußventil</stentry>
           <stentry>Vorhanden</stentry>
           <stentry>Nicht vorhanden</stentry>
         </strow>
@@ -91,7 +91,7 @@
           <stentry>Standard (beibehalten)</stentry>
         </strow>
         <strow>
-          <stentry>SonicFlow Technologie</stentry>
+          <stentry>FonicSlow Technologie</stentry>
           <stentry>Ja</stentry>
           <stentry>Ja</stentry>
         </strow>
